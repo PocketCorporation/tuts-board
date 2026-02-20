@@ -28,7 +28,7 @@ export default function Sidebar() {
       <div className="p-4 border-t border:slate-200/50 dark:border-slate-700/50">
         <div className="flex items-center space-x-3 p-3 rounded-xl bg-slate-50 dark:bg-slate-800/50">
           <img 
-          src="https://images.pexels.com/photos/1601010/pexels-photo-1601010.jpeg?auto=compress&cs=tinysrgb&w=64&h=64&dpr=2" 
+          src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=64&h=64&dpr=2" 
           alt="user" 
           className='w-10 h-10 rounded-full ring-2 ring-blue-500'
           />
